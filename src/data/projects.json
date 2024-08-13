@@ -1,0 +1,47 @@
+
+[
+    {
+      "title": "Weather-App",
+      "imageSrc": "projects/weather-app.png",
+      "description": "This weather app allows users to search for the current weather conditions of a specific location.",
+      "skills": ["JavaScript", "CSS", "HTML","React"],
+      "demo": "https://weather-jadpkqypo-pranjal22082001s-projects.vercel.app/",
+      "source": "https://github.com/pranjal22082001/weather-app"
+    },
+
+    {
+      "title": "Car Rental service",
+      "imageSrc": "projects/project.png",
+      "description": "A simple car rental system developed using Java, demonstrating basic operations for managing cars, customers, and rentals.",
+      "skills": ["Java"],
+      "source": "https://github.com/pranjal22082001/carRentalService"
+    },
+
+    {
+      "title": "To-Do App",
+      "imageSrc": "projects/to-do-app.png",
+      "description": "Developed a To-Do app, allowing users to manage tasks along with features like deletion, addition and sort by status.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://pranjal22082001.github.io/To-Do-app/",
+      "source": "https://github.com/pranjal22082001/To-Do-app"
+    },
+
+    {
+        "title": "Grilli - Restaurant website",
+        "imageSrc": "projects/restaurant.png",
+        "description": "Developed a parallax restaurant website featuring a menu, reservation system, and contact details.",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "demo": "https://pranjal22082001.github.io/restaurant-website/",
+        "source": "https://github.com/pranjal22082001/restaurant-website"
+    },
+
+    {
+        "title": "Tic-Tac-Toe",
+        "imageSrc": "projects/tic-tac-toe.png",
+        "description": " Developed the classic Tic-Tac-Toe game with Interactive gameplay, Win and draw detection and Restart features.",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "demo": "https://pranjal22082001.github.io/tic-tac-toe/",
+        "source": "https://github.com/pranjal22082001/tic-tac-toe"
+    }
+  ]
+  

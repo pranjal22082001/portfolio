@@ -1,0 +1,21 @@
+
+[
+    {
+      "role": "Software Engineer - Intern",
+      "organisation": "OpenText",
+      "startDate": "Oct, 2023",
+      "endDate": "Mar, 2024",
+      "experiences": ["Worked on ZENworks", "Developed robust RESTful APIs"],
+      "imageSrc": "history/opentext.png"
+    },
+
+    {
+        "role": "Lovely Professional University",
+        "organisation": " ",
+        "startDate": "2020",
+        "endDate": "2024",
+        "experiences": ["Bachelor's in Computer Science and Engineering"],
+        "imageSrc": "history/lpu.png"
+    }
+]
+  
